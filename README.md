@@ -23,7 +23,7 @@ I believe a light weight client over a secure channel with tiny real time update
 
 ##screenshots
 Concept of the default screen:
-![default](images/screenshot1.jpg)
+![default](images/Screenshot1.jpg)
 
 Concept of the details entry screen:
-![data entry](images/screenshot2.jpg)
+![data entry](images/Screenshot2.jpg)
